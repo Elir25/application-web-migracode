@@ -1,0 +1,81 @@
+.love {
+        color: red;
+      }
+      h1 {
+        color: #0AAD69;
+        font-size: 70px;
+        text: centered;
+      }
+      #i-love {
+        font-size: 50px;
+        color: white;
+        position: absolute;
+        left: 700px;
+      }
+      #first-text {
+        background-color: #0AAD69;
+        padding: 5px;
+        color: white;
+
+      }
+      #container {
+        width: 1000px;
+        background-color: white;
+        margin: auto;
+        padding: 20px;
+      }
+      table {
+        border-collapse: collapse;
+      }
+      table, td, th {
+        border: 1px solid black;
+        padding: 10px;
+        text: centered;
+      }
+      #mini-container {
+        width: 850px;
+        background-color: #C8D1FF;
+        padding: 20px;
+        margin-top: 50px;
+      }
+      body {
+        font-family: helvetica;
+      }
+
+      #first-table {
+        float: left;
+        margin-right: 40px;
+        margin-top: 30px;
+      }
+      a:link {
+        text-decoration: none;
+        color: #FA330F;
+        margin-top: 40px;
+      }
+      a:hover {
+      background-color: #FA330F;
+      color: white;
+     }
+      ul li strong {
+  line-height: 2em;
+      }
+      h2 {
+      background-color: #91FFD1;
+      color: black;
+      padding: 5px;
+      margin-top: 20px;
+      }
+
+.key-word {
+  color: #FA330F;
+}
+#tapas-glossary {
+  background-color: white;
+  width: 500px;
+  float: left;
+  margin-right: 30px;
+}
+
+#paella-pic {
+  float: left;
+}
